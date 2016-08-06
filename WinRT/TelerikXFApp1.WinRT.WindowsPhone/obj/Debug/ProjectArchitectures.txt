@@ -1,2 +1,0 @@
-c:\users\michael\documents\visual studio 2015\Projects\TelerikXFApp1\TelerikXFApp1\Portable\TelerikXFApp1.Portable.csproj;neutral
-c:\users\michael\documents\visual studio 2015\Projects\TelerikXFApp1\TelerikXFApp1\WinRT\TelerikXFApp1.WinRT.WindowsPhone\TelerikXFApp1.WinRT.WindowsPhone.csproj;neutral
