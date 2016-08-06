@@ -6,5 +6,23 @@
              xmlns:telerikChart="clr-namespace:Telerik.XamarinForms.Chart;assembly=Telerik.XamarinForms.Chart"
              xmlns:telerikInput="clr-namespace:Telerik.XamarinForms.Input;assembly=Telerik.XamarinForms.Input"
              x:Class="Portable.StartPage">
-  <Label Text="You are ready to use all controls from Telerik UI for XamarinForms suite." HorizontalOptions="Center" VerticalOptions="Center"/>
+  <Label Text="You are ready to use all controls from Telerik UI for XamarinForms suite." HorizontalOptions="Start" VerticalOptions="CenterAndExpand"/> 
+  <telerikPrimitives:RadSideDrawer>
+    <telerikPrimitives:RadSideDrawer.DrawerLength>
+      <OnPlatform x:TypeArguments="x:Double" iOS="150" Android="200"/>
+    </telerikPrimitives:RadSideDrawer.DrawerLength>
+    <telerikPrimitives:RadSideDrawer.MainContent>
+      <Label Text="Main Content" FontSize="Large" HorizontalOptions="Center"/>
+    </telerikPrimitives:RadSideDrawer.MainContent>
+    <telerikPrimitives:RadSideDrawer.DrawerContent>
+      <StackLayout>
+        <Label Text="Drawer Content" FontSize="Medium" HorizontalOptions="Center"/>
+        <Button Text="Mail"/>
+        <Button Text="Calendar"/>
+        <Button Text="People"/>
+        <Button Text="Tasks"/>
+      </StackLayout>
+    </telerikPrimitives:RadSideDrawer.DrawerContent>
+  </telerikPrimitives:RadSideDrawer>
 </ContentPage>
+

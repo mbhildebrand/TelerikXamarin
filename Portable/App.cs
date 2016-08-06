@@ -12,8 +12,8 @@ namespace Portable
         public App()
         {
             // The root page of your application
-            //MainPage = new StartPage();
-            MainPage = new Page1();
+            MainPage = new StartPage();
+            //MainPage = new Page2();
         }
 
         protected override void OnStart()

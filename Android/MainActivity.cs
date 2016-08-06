@@ -24,8 +24,9 @@ namespace TelerikXFApp1.Android
             base.OnCreate(bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
-            //TelerikForms.Init();
+            
             Telerik.XamarinForms.Common.Android.TelerikForms.Init();
+
             LoadApplication(new Portable.App());
         }
     }

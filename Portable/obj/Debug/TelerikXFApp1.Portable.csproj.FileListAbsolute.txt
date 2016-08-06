@@ -40,5 +40,6 @@ C:\Users\Michael\Source\Repos\TelerikXamarin\Portable\bin\Debug\Xamarin.Forms.Xa
 C:\Users\Michael\Source\Repos\TelerikXamarin\Portable\obj\Debug\TelerikXFApp1.Portable.csprojResolveAssemblyReference.cache
 C:\Users\Michael\Source\Repos\TelerikXamarin\Portable\obj\Debug\Portable.StartPage.xaml.g.cs
 C:\Users\Michael\Source\Repos\TelerikXamarin\Portable\obj\Debug\Portable.Page1.xaml.g.cs
+C:\Users\Michael\Source\Repos\TelerikXamarin\Portable\obj\Debug\Portable.Page2.xaml.g.cs
 C:\Users\Michael\Source\Repos\TelerikXamarin\Portable\obj\Debug\TelerikXFApp1.Portable.dll.mdb
 C:\Users\Michael\Source\Repos\TelerikXamarin\Portable\bin\Debug\TelerikXFApp1.Portable.dll.mdb

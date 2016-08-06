@@ -15,9 +15,12 @@ namespace Portable
         {
             InitializeComponent();
 
-            this.BindingContext = new MainViewModel();
-            BackgroundColor = Xamarin.Forms.Device.OnPlatform(Xamarin.Forms.Color.White, Xamarin.Forms.Color.White, Xamarin.Forms.Color.Transparent);
+            var mvm = new MainViewModel();
+            //mvm.Title = "My First Chart!";
+            this.BindingContext = mvm;
 
+            BackgroundColor = Xamarin.Forms.Device.OnPlatform(Xamarin.Forms.Color.White, Xamarin.Forms.Color.White, Xamarin.Forms.Color.Transparent);
+            //Title = "test";
             this.Content = CreateChart();
 
 
@@ -27,15 +30,32 @@ namespace Portable
 
         private static RadCartesianChart CreateChart()
         {
+          
+
             var chart = new RadCartesianChart
-            {
+            {    
+                 //Annotations = new 
                 HorizontalAxis = new Telerik.XamarinForms.Chart.CategoricalAxis(),
                 VerticalAxis = new Telerik.XamarinForms.Chart.NumericalAxis(),
+            };
+
+            
+
+            var lineAnnotation = new CartesianGridLineAnnotation()
+            {  
+                Axis = chart.VerticalAxis,
+                Value = 80,
+                Stroke = Color.Green,
+                StrokeThickness = Device.OnPlatform(iOS: 0.5, Android: 2, WinPhone: 2),
+                DashArray = Device.OnPlatform(iOS: null, Android: new double[] { 4, 2 }, WinPhone: new double[] { 4, 2 })
+
             };
 
             var series = CreateSeries();
 
             chart.Series.Add(series);
+            chart.Annotations.Add(lineAnnotation);
+
             return chart;
         }
 
