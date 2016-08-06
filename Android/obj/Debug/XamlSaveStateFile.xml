@@ -1,0 +1,20 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q2 2016\binaries\winrt\common\telerik.core.dll" HashGuid="610cd32e-f723-51eb-bd79-4a5f88d0dc31" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q2 2016\binaries\winrt\common\telerik.data.dll" HashGuid="10c0ee15-84d0-d381-c849-abb2af8cf2d7" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q2 2016\binaries\winrt\windows phone 8.1\telerik.ui.xaml.chart.dll" HashGuid="71da339a-821c-ba60-1231-377743e5b302" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q2 2016\binaries\winrt\windows phone 8.1\telerik.ui.xaml.controls.data.dll" HashGuid="710a9776-1bc0-823c-9324-71377dfb5004" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q2 2016\binaries\winrt\windows phone 8.1\telerik.ui.xaml.input.dll" HashGuid="7cd72649-9cd2-3c56-cdd7-1fe70a5ae9bd" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q2 2016\binaries\winrt\windows phone 8.1\telerik.ui.xaml.primitives.dll" HashGuid="f2beda8f-525d-4756-131c-315891205791" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q2 2016\binaries\xamarinforms\common\telerik.xamarinforms.chart.dll" HashGuid="399c2676-54f2-3597-f2c4-b5168a0daa02" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q2 2016\binaries\xamarinforms\winrt\winphone\telerik.xamarinforms.chartrenderer.winrt.windowsphone.dll" HashGuid="acf56b87-a6ae-0089-9bf4-d87eedaa0962" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q2 2016\binaries\xamarinforms\common\telerik.xamarinforms.common.dll" HashGuid="09951be4-f91c-91eb-949c-1daf8bdab9cd" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q2 2016\binaries\xamarinforms\winrt\winphone\telerik.xamarinforms.common.winrt.windowsphone.dll" HashGuid="7c7b678c-cc5c-7e4f-0b24-ba583b76446b" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q2 2016\binaries\xamarinforms\common\telerik.xamarinforms.datacontrols.dll" HashGuid="ddde4eff-365f-aa94-0f77-68a9b874211e" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q2 2016\binaries\xamarinforms\winrt\winphone\telerik.xamarinforms.datacontrolsrenderer.winrt.windowsphone.dll" HashGuid="5f3c6846-1bd9-ac32-732e-4d3cc8351779" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q2 2016\binaries\xamarinforms\common\telerik.xamarinforms.input.dll" HashGuid="21742000-b8f4-17c1-27c5-82c81a34d94a" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q2 2016\binaries\xamarinforms\winrt\winphone\telerik.xamarinforms.inputrenderer.winrt.windowsphone.dll" HashGuid="ed1dfdb4-cb87-c9ca-0ba7-c8192d00cc80" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q2 2016\binaries\xamarinforms\common\telerik.xamarinforms.primitives.dll" HashGuid="41adde1a-8c56-18b3-c459-beb2e289e616" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q2 2016\binaries\xamarinforms\winrt\winphone\telerik.xamarinforms.primitivesrenderer.winrt.windowsphone.dll" HashGuid="6fcf1308-6bb9-7ee8-9a01-e98cdcdefe46" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

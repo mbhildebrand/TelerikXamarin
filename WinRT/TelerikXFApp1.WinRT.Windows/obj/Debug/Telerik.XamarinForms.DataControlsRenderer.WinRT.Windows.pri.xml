@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Telerik.XamarinForms.DataControlsRenderer.WinRT.Windows" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Telerik.XamarinForms.DataControlsRenderer.WinRT.Windows">
+				<NamedResource name="Telerik.XamarinForms.DataControlsRenderer.WinRT.Windows.xr.xml" uri="ms-resource://Telerik.XamarinForms.DataControlsRenderer.WinRT.Windows/Files/Telerik.XamarinForms.DataControlsRenderer.WinRT.Windows/Telerik.XamarinForms.DataControlsRenderer.WinRT.Windows.xr.xml">
+					<Candidate type="Path">
+						<Value>Telerik.XamarinForms.DataControlsRenderer.WinRT.Windows\Telerik.XamarinForms.DataControlsRenderer.WinRT.Windows.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Resources">
+					<NamedResource name="DataControlsTemplates.xbf" uri="ms-resource://Telerik.XamarinForms.DataControlsRenderer.WinRT.Windows/Files/Telerik.XamarinForms.DataControlsRenderer.WinRT.Windows/Resources/DataControlsTemplates.xbf">
+						<Candidate type="Path">
+							<Value>Telerik.XamarinForms.DataControlsRenderer.WinRT.Windows\Resources\DataControlsTemplates.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
